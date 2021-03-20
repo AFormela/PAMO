@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="label_height">Wzrost</string>
+    <string name="label_weight">Waga</string>
+    <string name="button_bmi">Oblicz BMI</string>
+    <string name="hint_height">Wprowadź wzrost</string>
+    <string name="hint_weight">Wprowadź wagę</string>
+    <string name="error_weight_height_required">Wprowadź wzrost i wagę!</string>
+</resources>
