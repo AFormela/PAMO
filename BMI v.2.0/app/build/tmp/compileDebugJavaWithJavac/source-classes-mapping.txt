@@ -1,0 +1,17 @@
+pl/arisa/bmicalculator/Enum/Gender.java
+ pl.arisa.bmicalculator.Enum.Gender
+pl/arisa/bmicalculator/ui/bmi/BmiFragment.java
+ pl.arisa.bmicalculator.ui.bmi.BmiFragment
+ pl.arisa.bmicalculator.ui.bmi.BmiFragment$CountBmi
+pl/arisa/bmicalculator/ui/bmr/BmrFragment.java
+ pl.arisa.bmicalculator.ui.bmr.BmrFragment
+ pl.arisa.bmicalculator.ui.bmr.BmrFragment$CountBmr
+pl/arisa/bmicalculator/Enum/BmiType.java
+ pl.arisa.bmicalculator.Enum.BmiType
+pl/arisa/bmicalculator/ui/food/FoodFragment.java
+ pl.arisa.bmicalculator.ui.food.FoodFragment
+ pl.arisa.bmicalculator.ui.food.FoodFragment$1
+pl/arisa/bmicalculator/MainActivity.java
+ pl.arisa.bmicalculator.MainActivity
+pl/arisa/bmicalculator/BuildConfig.java
+ pl.arisa.bmicalculator.BuildConfig

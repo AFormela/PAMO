@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_food.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\layout\\fragment_food.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bmr.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\layout\\fragment_bmr.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bmi.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\layout\\fragment_bmi.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Studia\\8 semestr\\PAMO\\PAMO\\BMI v.2.0\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
