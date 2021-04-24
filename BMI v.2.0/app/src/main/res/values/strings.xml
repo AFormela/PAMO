@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="label_height">Wzrost</string>
+    <string name="label_weight">Waga</string>
+    <string name="button_bmi">Oblicz BMI</string>
+    <string name="button_bmr">Oblicz BMR</string>
+    <string name="hint_height">Wprowadź wzrost</string>
+    <string name="hint_weight">Wprowadź wagę</string>
+    <string name="hint_age">Wprowadź wiek</string>
+    <string name="error_weight_height_required">Wprowadź wzrost i wagę!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_bmr">BMR</string>
+    <string name="title_food">Przepisy</string>
+    <string name="male">Mężczyzna</string>
+    <string name="female">Kobieta</string>
+    <string name="food_underweight_title">Owsianka z masłem orzechowym</string>
+    <string name="food_correct_title">Makaron bezglutenowy z pieczonym kalafiorem i ciecierzycą</string>
+    <string name="food_overweight_title">Sałatka z makaronem i kurczakiem satay</string>
+    <string name="food_obese_title">Nisko-tłuszczowa Sałtka Szefa</string>
+    <string-array name="food_underweight_recipe">
+        <item>Pół szklanki płatków owsianych błyskawicznych</item>
+        <item>1 szklanka pełnotłustego mleka</item>
+        <item>1 banan pocięty w plasterki</item>
+        <item>2 łyżki stołowe masła orzechowego</item>
+        <item>Garść uprzednio namoczonej żurawiny</item>
+        <item>2 łyżki stołowa miodu</item>
+    </string-array>
+    <string-array name="food_correct_recipe">
+        <item>1 mała główka kalafiora, pocięta na różyczki</item>
+        <item>2 łyżki stołowe czerwonych porzeczek</item>
+        <item>2 łyżki stołowe octu balsamicznego</item>
+        <item>200 gram bezglutenowego makaronu penne</item>
+        <item>1 łyżka stołowa oliwy z oliwek extra virgin</item>
+        <item>4 szalotki, w cienkich plasterkach</item>
+        <item>2 ząbki czosnku, przepuszcone przez praskę</item>
+        <item>2 łyżeczki startej skórki z cytryny</item>
+        <item>400 gram odsączonej ciecierzycy z puszki</item>
+        <item>80 ml bezglutenowego bulionu warzywnego o obniżonej zawartości soli</item>
+        <item>100 gram szpinaku baby</item>
+        <item>Kwarta szkalnki świeżo pociętej pietruszki</item>
+        <item>1 łyżka stołowa soku z cytryny</item>
+    </string-array>
+    <string-array name="food_overweight_recipe">
+        <item>2 uda z kurczaka</item>
+        <item>2 gniazda wstążek makaronu tagiatelle</item>
+        <item>Pół główki małej czerwonej kapusty, drobno posiekanej</item>
+        <item>2 starte marchewki</item>
+        <item>Pół cebuli w cienkich plasterkach</item>
+        <item>Mały pęk posztkowanej mięty</item>
+        <item>Mała garść prażonych orzeszków ziemnych, grubo posiekanych</item>
+        <item>Mały kawałek imbiru, startego na tarce z czerwonym chilli i połową szklanki soku z limonki jako sos></item>
+    </string-array>
+    <string-array name="food_obese_recipe">
+        <item>1 pierś z kurczaka</item>
+        <item>Szczypta soli</item>
+        <item>Świeżo zmielony pieprz do smaku</item>
+        <item>2 paski bekonu z indyka</item>
+        <item>50 gram sera szwajcarskiego o obniżonej zawartości tłuszczu w plasterkach</item>
+        <item>50 gram żółtego sera Cheddar o obniżonej zawartości tłuszczu w plasterkach</item>
+        <item>15 gram pepperoni z indyka w plasterkach</item>
+        <item>4 rzodkiewki, cienko posiekane</item>
+        <item>1 duży pomidor, pokrojony w małą kostkę</item>
+        <item>1 mały ogórek, obrany i cienko posiekany</item>
+        <item>1 marchewka, obrana i poszatkowana</item>
+        <item>1 opakowanie sałaty rzymskiej</item>
+        <item>1 łyżka stołowa oliwy z oliwek</item>
+        <item>2 łyżka stołowa octu balsamicznego</item>
+    </string-array>
+
+    <string name="preference_name">PreferenceData</string>
+    <string name="key_bmi_category">keyBmiCategory</string>
+    <string name="key_height">keyHeight</string>
+    <string name="key_weight">keyWeight</string>
+</resources>

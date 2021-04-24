@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:textAlignment="center"
+    tools:context=".ui.bmr.BmrFragment">
+
+    <EditText
+        android:id="@+id/input_height"
+        android:layout_width="212dp"
+        android:layout_height="46dp"
+        android:ems="10"
+        android:hint="@string/hint_height"
+        android:inputType="numberDecimal"
+        android:textAlignment="center"/>
+
+    <EditText
+        android:id="@+id/input_weight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_weight"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"/>
+
+    <EditText
+        android:id="@+id/input_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_age"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"/>
+
+    <RadioGroup
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:id="@+id/radio_gender"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+
+        >
+
+        <RadioButton
+            android:id="@+id/radio_gender_male"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/male" />
+
+        <RadioButton
+            android:id="@+id/radio_gender_female"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/female" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/button_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_bmr"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"/>
+</LinearLayout>
