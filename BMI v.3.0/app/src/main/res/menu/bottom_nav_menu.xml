@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bmi"
+        android:title="@string/title_bmi" />
+
+    <item
+        android:id="@+id/navigation_bmr"
+        android:title="@string/title_bmr" />
+
+    <item
+        android:id="@+id/navigation_food"
+        android:title="@string/title_food" />
+
+    <item
+        android:id="@+id/navigation_chart"
+        android:title="@string/title_chart" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:title="@string/title_quiz" />
+
+</menu>
