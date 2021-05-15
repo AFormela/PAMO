@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_bmi">
+
+    <fragment
+        android:id="@+id/navigation_bmi"
+        android:name="pl.arisa.bmicalculator.ui.bmi.BmiFragment"
+        android:label="@string/title_bmi"
+        tools:layout="@layout/fragment_bmi" />
+
+    <fragment
+        android:id="@+id/navigation_bmr"
+        android:name="pl.arisa.bmicalculator.ui.bmr.BmrFragment"
+        android:label="@string/title_bmr"
+        tools:layout="@layout/fragment_bmr" />
+
+    <fragment
+        android:id="@+id/navigation_food"
+        android:name="pl.arisa.bmicalculator.ui.food.FoodFragment"
+        android:label="@string/title_food"
+        tools:layout="@layout/fragment_food" />
+
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="pl.arisa.bmicalculator.ui.quiz.QuizStepFragment"
+        android:label="@string/title_quiz"
+        tools:layout="@layout/fragment_quiz_step" />
+
+    <fragment
+        android:id="@+id/navigation_quiz_end"
+        android:name="pl.arisa.bmicalculator.ui.quiz.QuizEndFragment"
+        tools:layout="@layout/fragment_quiz_end" />
+
+    <fragment
+        android:id="@+id/navigation_chart"
+        android:name="pl.arisa.bmicalculator.ui.chart.ChartFragment"
+        android:label="@string/title_chart"
+        tools:layout="@layout/fragment_chart" />
+</navigation>

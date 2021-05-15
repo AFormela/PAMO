@@ -1,0 +1,151 @@
+{
+  "questions": [
+    {
+      "name": "Ile razy dziennie powinno się spożywać warzywa, lub owoce?",
+      "answersList": [
+        {
+          "name": "10",
+          "correct": false
+        },
+        {
+          "name": "2",
+          "correct": false
+        },
+        {
+          "name": "5",
+          "correct": true
+        },
+        {
+          "name": "12",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Który produkt zawiera najwięcej żelaza?",
+      "answersList": [
+        {
+          "name": "Szpinak",
+          "correct": false
+        },
+        {
+          "name": "Biała fasola",
+          "correct": true
+        },
+        {
+          "name": "Buraki",
+          "correct": false
+        },
+        {
+          "name": "Jajka",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Który posiłek jest najważniejszy w ciągu dnia?",
+      "answersList": [
+        {
+          "name": "Obiad",
+          "correct": false
+        },
+        {
+          "name": "Śniadanie",
+          "correct": true
+        },
+        {
+          "name": "Podwieczorek",
+          "correct": false
+        },
+        {
+          "name": "Drugie śniadanie",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Co stanowi dobry zaminennik białka w diecie wegańskiej?",
+      "answersList": [
+        {
+          "name": "Soja",
+          "correct": true
+        },
+        {
+          "name": "Jajka",
+          "correct": false
+        },
+        {
+          "name": "Ryby",
+          "correct": false
+        },
+        {
+          "name": "Owoce morza",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Ile wody powinno się wypijać dziennie?",
+      "answersList": [
+        {
+          "name": "Kobiety około 2 litrów, mężczyźni około 3 litrów",
+          "correct": true
+        },
+        {
+          "name": "Kobiety około 5 litrów, mężczyźni około 7 litrów",
+          "correct": false
+        },
+        {
+          "name": "Nie istnieją jednoznaczne wskazania",
+          "correct": false
+        },
+        {
+          "name": "Niezależnie od płci - 4 litry",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Jakie produkty dosatrczą nam wartościowe, zdrowe tłuszcze?",
+      "answersList": [
+        {
+          "name": "Chipsy ziemniaczane o obniżonej zawartości tłuszczu",
+          "correct": false
+        },
+        {
+          "name": "Smażone orzechy nerkowca",
+          "correct": false
+        },
+        {
+          "name": "Ryby morskie",
+          "correct": true
+        },
+        {
+          "name": "Burrito",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "name": "Jaki jest rekomendowany limit dla spożycia tłuszczów nasyconych",
+      "answersList": [
+        {
+          "name": "70g",
+          "correct": false
+        },
+        {
+          "name": "10g",
+          "correct": false
+        },
+        {
+          "name": "20g",
+          "correct": true
+        },
+        {
+          "name": "40g",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
